@@ -1,19 +1,18 @@
-<img align="right" width="40%" src="https://www.finos.org/hubfs/FINOS/finos-logo/FINOS_Icon_Wordmark_Name_RGB_horizontal.png">
+[![FINOS - Incubating](https://cdn.jsdelivr.net/gh/finos/contrib-toolbox@master/images/badge-incubating.svg)](https://finosfoundation.atlassian.net/wiki/display/FINOS/Incubating)
 
-# FINOS Software Project Blueprint
+# Open Compliance for CDMC
 
-Project blueprint is a GitHub repository template for all [Fintech Open Source Foundation (FINOS)](https://www.finos.org/) hosted GitHub repositories, contributed and maintained by FINOS as part of the [Open Developer Platform (ODP)](https://odp.finos.org) initiative.
+Open Compliance for CDMC is recruiting a team of open source maintainers. 
 
-## How to use this blueprint
+Being an Open Compliance for CDMC maintainer is a fun role that involves a broad set of technical skills and leadership experience.
 
-Please follow https://odp.finos.org/docs/project-collaboration/#how-to-use-this-blueprint
+Find out more and apply using the GitHub Issue below.
 
-## Governance
-This blueprint implements https://github.com/finos/community/tree/master/governance#open-source-software-projects
+- https://github.com/finos/open-compliance-cdmc/issues/1
 
 ## License
 
-Copyright 2019 Fintech Open Source Foundation
+Copyright 2021 Fintech Open Source Foundation
 
 Distributed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
 
