@@ -4,7 +4,7 @@
 
 Open Compliance for CDMC is recruiting a team of open source maintainers. 
 
-<img src="https://github.com/finos/compliant-financial-infrastructure/blob/main/docs/img/2021Q4-FINOS-CDMC.png?raw=true" width="80%">
+<img src="https://github.com/finos/open-compliance-cdmc/blob/main/docs/img/2021Q4-FINOS-CDMC.png?raw=true" width="70%">
 
 Being an Open Compliance for CDMC maintainer is a fun role that involves a broad set of technical skills and leadership experience.
 
