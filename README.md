@@ -1,8 +1,10 @@
-[![FINOS - Incubating](https://cdn.jsdelivr.net/gh/finos/contrib-toolbox@master/images/badge-incubating.svg)](https://finosfoundation.atlassian.net/wiki/display/FINOS/Incubating)
+[![FINOS - forming](https://cdn.jsdelivr.net/gh/finos/contrib-toolbox@master/images/badge-forming.svg)](https://github.com/finos/community/blob/master/governance/Software-Projects/Project-Lifecycle.md#forming-projects-optional)
 
 # Open Compliance for CDMC
 
 Open Compliance for CDMC is recruiting a team of open source maintainers. 
+
+<img src="https://github.com/finos/compliant-financial-infrastructure/blob/main/docs/img/2021Q4-FINOS-CDMC.png?raw=true" width="80%">
 
 Being an Open Compliance for CDMC maintainer is a fun role that involves a broad set of technical skills and leadership experience.
 
